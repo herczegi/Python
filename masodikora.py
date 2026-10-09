@@ -18,7 +18,7 @@ print(hallgato["nev"])
 print(halmaz)
 print('Szia', felhasznalo_neve, "!", jegyek)
 
-print('Jó', 'reggelt',end='\n\n', sep='-')
+print('Jó' 'reggelt',end='\n\n', sep='-')
 print('Több soros\n'
       'kiírás\n'
       )
